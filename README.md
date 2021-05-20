@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Islomjon2566
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Islomjon2566/Islomjon2566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in learning new languages
+- 🌱 I’m currently learning PHYTON
+- 💞️ I’m looking to collaborate on new Web Developers
+- 📫 You can connect to me by telegram which you type as "@islomjon2566"
