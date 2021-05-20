@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Islomjon2566
+- 👋 Hi, I’m Islomjon
 - 👀 I’m interested in learning new languages
 - 🌱 I’m currently learning PHYTON
 - 💞️ I’m looking to collaborate on new Web Developers
